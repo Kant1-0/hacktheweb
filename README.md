@@ -90,7 +90,7 @@ body {
  - *Issues:*
 
 There might be issues while your content can be cut in height e.g. while printing with Chrome whereas `zoom` doesn't cut the content.
-Still prefer `transform` css rule more than `zoom` except if you really need it. `Zoom` is NOT a solution for mobile display.
+Still prefer `transform` css rule more than `zoom` except if you really need it. NB: `Zoom` is NOT a solution for mobile display.
 
 
 -------
