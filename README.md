@@ -46,6 +46,10 @@ https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with
 
 http://www.gv.com/sprint/
 
+- *Invest in early database design to succeed - How to smartly build database architecture*
+
+http://firstround.com/review/your-database-is-your-prison-heres-how-expensify-broke-free/
+
 ### Intiution vs Programing *[WORKFLOW]*
 - *Overcoming Intuition in Programming*
 
@@ -59,10 +63,6 @@ https://medium.com/appnroll-publication/practical-functional-reactive-programmin
 - *Kill project before they kill you - learn when it's time to give up*
 
 http://firstround.com/review/dont-play-with-dead-snakes-kill-projects-before-they-kill-you/
-
-- *Invest in early database design to succeed - How to smartly build database architecture*
-
-http://firstround.com/review/your-database-is-your-prison-heres-how-expensify-broke-free/
 
 - *Growing startup*
 
@@ -130,6 +130,21 @@ It can be useful to understand the interaction your rendering process is doing w
   
 https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/40350880#40350880
 
+------
+# Server
+
+### Deployement *[GETTING STARTED]*
+
+List of service to deploy web-app:
+
+- Heroku
+- Now (from Zeit)
+
+More to come...
+
+### Serverless
+
+More to come...
 
 ------
 # Legal Notice & Juridic stuff
