@@ -92,5 +92,10 @@ https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/
 # Legal Mentions & Juridic
  	
 
-- Understanding cookies with european laws - [Premium Tag Manager tarteaucitron.js[(https://opt-out.ferank.eu/en/)
-- Understanding React Patent licences [If you’re a startup, you should not use React reflecting on the BSD + patents license](https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2)
+- *Understanding cookies with european laws*
+
+[Premium Tag Manager tarteaucitron.js](https://opt-out.ferank.eu/en/)
+
+- *Understanding React Patent licences*
+
+[If you’re a startup, you should not use React reflecting on the BSD + patents license](https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2)
