@@ -1,7 +1,7 @@
 # Hack The Web
 Just a repo gathering a usefull list of HTML, CSS or JS workaround that help me to easily and fastly dev web-app that are cross-browser compatible. Feel free to add your 2 cents 🤘
 
-**EDIT: Work In Progress**
+**Work In Progress**
 
 -------
 # Web Usage & Dev Practices
@@ -22,11 +22,35 @@ https://developer.mozilla.org
 
 ### Into Production *[WORKFLOW]*
 Create large app at scale can be a pain... especially when you only focus on what tutorials teach you. Actually - eg with react - they tend to show you a workflow that works with one single page app. Here are alternativs that will help you build large app at scale
+
 https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
+
 http://engineering.kapost.com/2016/01/organizing-large-react-applications/
 
-### How to succeed VS Learn to fail
-MORE COMING...
+And do I need redux ?
+
+https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
+
+Conclusion:
+
+COMING SOON...
+
+### Intiution vs Programing *[WORKFLOW]*
+
+https://amasad.me/intuition
+
+### How to succeed VS Learn to fail *[STARTUP]*
+- *Kill project before they kill you - learn when it's time to give up*
+
+http://firstround.com/review/dont-play-with-dead-snakes-kill-projects-before-they-kill-you/
+
+- *Invest in early database design to succeed - How to smartly build database architecture*
+
+http://firstround.com/review/your-database-is-your-prison-heres-how-expensify-broke-free/
+
+- *Growing startup*
+
+http://firstround.com/review/fighting-factions-how-startups-can-scale-without-mutiny/
 
 -------
 # CSS
@@ -91,11 +115,12 @@ https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/
 ------
 # Legal Mentions & Juridic
  	
-
+### Cookies and Privacy *[GETTING STARTED]**[EXPERT]*
 - *Understanding cookies with european laws*
 
-[Premium Tag Manager tarteaucitron.js](https://opt-out.ferank.eu/en/)
+[Premium Tag Manager tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js)
 
+### Licensing *[GETTING STARTED]**[EXPERT]*
 - *Understanding React Patent licences*
 
 [If you’re a startup, you should not use React reflecting on the BSD + patents license](https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2)
