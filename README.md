@@ -1,7 +1,7 @@
 # Hack The Web
 Just a repo gathering a usefull list of HTML, CSS or JS workaround that help me to easily and fastly dev web-app that are cross-browser compatible. Feel free to add your 2 cents 🤘
 
-**Work In Progress**
+**Work Always In Progress**
 
 
 -------
