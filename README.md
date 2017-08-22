@@ -111,13 +111,13 @@ https://codepen.io/gapcode/pen/vEJNZN
 ### DOM *[EXPERT]*
 Today React.js is popular to create web-app, and more and more framework like Vue.js get their ways too. They tend to ease the developement of web-app and help you to better/fastly produce, although they add more complexity to DOM rendering.
 
- - *Here you can started understand what is DOM:*
+ - *Here you can start to understand what is DOM:*
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
 It can be useful to understand the interaction your rendering process is doing with the DOM ; especially when you tend to come from JQuery and you'd like to use it with React. You'll understand it's not the best thing to do, but if you really need to that
 
- - *React + JQuery:*
+ - *React + JQuery (if needed):*
   
 https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/40350880#40350880
 
