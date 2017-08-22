@@ -36,6 +36,10 @@ You may consider to structure your project by features, instead of by type.
 
 https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
 
+### Design *[WORKFLOW]*
+- *Design Sprint by Google Ventures - How to solve problems in five days with new ideas*
+
+http://www.gv.com/sprint/
 
 ### Intiution vs Programing *[WORKFLOW]*
 - *Overcoming Intuition in Programming*
