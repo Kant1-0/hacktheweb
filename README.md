@@ -22,15 +22,16 @@ A useful documentation created by the Mozilla Community and translated into many
 https://developer.mozilla.org
 
 ### Into Production *[WORKFLOW]*
-Create large app at scale can be a pain... especially when you only focus on what tutorials teach you. Actually - eg with react - they tend to show you a workflow that works with one single page app. Here are alternativs that will help you build large app at scale
+Create large app at scale can be a pain... especially when you only focus on what tutorials teach you. Actually - eg with react - they tend to show you a workflow that works with one single page app. Here are alternativs that will help you:
+
+- *Build large app at scale*
 
 https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
 
 http://engineering.kapost.com/2016/01/organizing-large-react-applications/
-
 You may consider to structure your project by features, instead of by type.
 
-And do I need redux ?
+- *And do I need redux ?*
 
 https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
 
