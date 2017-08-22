@@ -3,6 +3,11 @@ Just a repo gathering a usefull list of HTML, CSS or JS workaround that help me 
 
 **Work Always In Progress**
 
+-------
+# Summary
+
+TODO
+
 
 -------
 # Web Usage & Dev Practices
