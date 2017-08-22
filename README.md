@@ -29,6 +29,7 @@ Create large app at scale can be a pain... especially when you only focus on wha
 https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
 
 http://engineering.kapost.com/2016/01/organizing-large-react-applications/
+
 You may consider to structure your project by features, instead of by type.
 
 - *And do I need redux ?*
