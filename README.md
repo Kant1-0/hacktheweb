@@ -13,13 +13,20 @@ http://caniuse.com
 
 http://gs.statcounter.com/
 
-### Workflow & Tips *[GETTING STARTED]*
+### Getting Started *[GETTING STARTED]*
 Google's Web Fundamentals to better understand what is important while developping on the web today
 https://developers.google.com/web/fundamentals/getting-started/
 
 A useful documentation created by the Mozilla Community and translated into many languages
 https://developer.mozilla.org
 
+### Into Production *[WORKFLOW]*
+Create large app at scale can be a pain... especially when you only focus on what tutorials teach you. Actually - eg with react - they tend to show you a workflow that works with one single page app. Here are alternativs that will help you build large app at scale
+https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1
+http://engineering.kapost.com/2016/01/organizing-large-react-applications/
+
+### How to succeed VS Learn to fail
+MORE COMING...
 
 -------
 # CSS
@@ -79,3 +86,11 @@ It can be useful to understand the interaction your rendering process is doing w
  - *React + JQuery:*
   
 https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/40350880#40350880
+
+
+------
+# Legal Mentions & Juridic
+ 	
+
+- Understanding cookies with european laws - [Premium Tag Manager tarteaucitron.js[(https://opt-out.ferank.eu/en/)
+- Understanding React Patent licences [If you’re a startup, you should not use React reflecting on the BSD + patents license](https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2)
