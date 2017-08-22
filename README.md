@@ -3,6 +3,7 @@ Just a repo gathering a usefull list of HTML, CSS or JS workaround that help me 
 
 **Work In Progress**
 
+
 -------
 # Web Usage & Dev Practices
 
@@ -27,17 +28,21 @@ https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3
 
 http://engineering.kapost.com/2016/01/organizing-large-react-applications/
 
+You may consider to structure your project by features, instead of by type.
+
 And do I need redux ?
 
 https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
 
-Conclusion:
-
-COMING SOON...
 
 ### Intiution vs Programing *[WORKFLOW]*
+- *Overcoming Intuition in Programming*
 
 https://amasad.me/intuition
+
+- *Practical Functional Reactive Programming -take a breath-*
+
+https://medium.com/appnroll-publication/practical-functional-reactive-programming-ae9bfc35897
 
 ### How to succeed VS Learn to fail *[STARTUP]*
 - *Kill project before they kill you - learn when it's time to give up*
@@ -54,6 +59,7 @@ http://firstround.com/review/fighting-factions-how-startups-can-scale-without-mu
 
 -------
 # CSS
+
 ### Flexbox *[WORKAROUND]*
 Flexbox is a magic css rule that will help you to create responsive content more easily without the real needs of media queries: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
@@ -87,6 +93,7 @@ Still prefer `transform` css rule more than `zoom` except if you really need it.
 
 -------
 # JS
+
 ### Detecting IE *[WORKAROUND]*
 While developping web-app IE has always been a time killer to found workaround, due to its different versions bringing each time different "unique" rendering. It can also be a pain to detect IE and which version the user is using.
 
@@ -98,6 +105,7 @@ https://codepen.io/gapcode/pen/vEJNZN
 
 -------
 # HTML
+
 ### DOM *[EXPERT]*
 Today React.js is popular to create web-app, and more and more framework like Vue.js get their ways too. They tend to ease the developement of web-app and help you to better/fastly produce, although they add more complexity to DOM rendering.
 
@@ -113,7 +121,7 @@ https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/
 
 
 ------
-# Legal Mentions & Juridic
+# Legal Notice & Juridic stuff
  	
 ### Cookies and Privacy *[GETTING STARTED]**[EXPERT]*
 - *Understanding cookies with european laws*
