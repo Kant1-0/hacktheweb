@@ -126,11 +126,11 @@ https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/
 # Legal Notice & Juridic stuff
  	
 ### Cookies and Privacy *[GETTING STARTED]**[EXPERT]*
-- *Understanding cookies with european laws*
+- *Handling cookies with european laws*
 
-[Premium Tag Manager tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js)
+https://github.com/AmauriC/tarteaucitron.js
 
 ### Licensing *[GETTING STARTED]**[EXPERT]*
 - *Understanding React Patent licences*
 
-[If you’re a startup, you should not use React reflecting on the BSD + patents license](https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2)
+https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2
