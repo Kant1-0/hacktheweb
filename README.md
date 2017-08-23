@@ -43,6 +43,10 @@ You may consider to structure your project by features, instead of by type.
 
 https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559
 
+- *Asynchronous actions - Redux example*
+
+https://medium.com/@jtbennett/asynchronous-actions-in-redux-8412cf92a26f
+
 ### Design *[WORKFLOW]*
 - *Design Sprint by Google Ventures - How to solve problems in five days with new ideas*
 
