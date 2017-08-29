@@ -6,13 +6,30 @@ You will also find a lot of article I find usefull or giving me inspiration to e
 **Work Always In Progress**
 
 -------
-# Summary
-
-TODO
-
+## Table of Contents
+  **TO CONTINUE**
+- [Web Usage & Dev Practices](#web-usage--dev-practices)
+  - [Getting Started *[GETTING STARTED]*](#getting-started-start-point)
+  - [Stats *[USAGE]*](#stats-usage)
+  - [Into Production *[WORKFLOW]*](#into-production-workflow)
+  - [Design *[WORKFLOW]*](#design-workflow)
+  - [Intiution vs Programing *[WORKFLOW]*](#intiution-vs-programing-workflow)
+  - [How to succeed VS Learn to fail *[STARTUP]*](#how-to-succeed-vs-learn-to-fail-startup)
+- [JS](#js)
+- [CSS](#css)
+- [HTML](#html)
+- [Server](#server)
+- [Legal Notice & Juridic stuff](#legal-notice--juridic-stuff)
 
 -------
-# Web Usage & Dev Practices
+## Web Usage & Dev Practices
+
+### Getting Started *[START POINT]*
+Google's Web Fundamentals to better understand what is important while developping on the web today
+https://developers.google.com/web/fundamentals/getting-started/
+
+A useful documentation created by the Mozilla Community and translated into many languages
+https://developer.mozilla.org
 
 ### Stats *[USAGE]*
 Lists of websites to check web features compatibily between browsers, plus divers stat websites useful to compare browser usages and others...
@@ -20,13 +37,6 @@ Lists of websites to check web features compatibily between browsers, plus diver
 http://caniuse.com
 
 http://gs.statcounter.com/
-
-### Getting Started *[GETTING STARTED]*
-Google's Web Fundamentals to better understand what is important while developping on the web today
-https://developers.google.com/web/fundamentals/getting-started/
-
-A useful documentation created by the Mozilla Community and translated into many languages
-https://developer.mozilla.org
 
 ### Into Production *[WORKFLOW]*
 Create large app at scale can be a pain... especially when you only focus on what tutorials teach you. Actually - eg with react - they tend to show you a workflow that works with one single page app. Here are alternativs that will help you:
@@ -75,7 +85,19 @@ http://firstround.com/review/dont-play-with-dead-snakes-kill-projects-before-the
 http://firstround.com/review/fighting-factions-how-startups-can-scale-without-mutiny/
 
 -------
-# CSS
+## JS
+
+### Detecting IE *[WORKAROUND]*
+While developping web-app IE has always been a time killer to found workaround, due to its different versions bringing each time different "unique" rendering. It can also be a pain to detect IE and which version the user is using.
+
+Here is a ready-to-use solution brought by @gapcode on Code Pen that does the job.
+
+ - *Solution:*
+
+https://codepen.io/gapcode/pen/vEJNZN
+
+-------
+## CSS
 
 ### Flexbox *[WORKAROUND]*
 Flexbox is a magic css rule that will help you to create responsive content more easily without the real needs of media queries: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
@@ -107,21 +129,8 @@ body {
 There might be issues while your content can be cut in height e.g. while printing with Chrome whereas `zoom` doesn't cut the content.
 Still prefer `transform` css rule more than `zoom` except if you really need it. NB: `Zoom` is NOT a solution for mobile display.
 
-
 -------
-# JS
-
-### Detecting IE *[WORKAROUND]*
-While developping web-app IE has always been a time killer to found workaround, due to its different versions bringing each time different "unique" rendering. It can also be a pain to detect IE and which version the user is using.
-
-Here is a ready-to-use solution brought by @gapcode on Code Pen that does the job.
-
- - *Solution:*
-
-https://codepen.io/gapcode/pen/vEJNZN
-
--------
-# HTML
+## HTML
 
 ### DOM *[EXPERT]*
 Today React.js is popular to create web-app, and more and more framework like Vue.js get their ways too. They tend to ease the developement of web-app and help you to better/fastly produce, although they add more complexity to DOM rendering.
@@ -137,9 +146,9 @@ It can be useful to understand the interaction your rendering process is doing w
 https://stackoverflow.com/questions/38836553/how-to-use-jquery-ui-with-react-js/40350880#40350880
 
 ------
-# Server
+## Server
 
-### Deployement *[GETTING STARTED]*
+### Deployement *[START POINT]*
 
 List of service to deploy web-app:
 
@@ -153,14 +162,14 @@ More to come...
 More to come...
 
 ------
-# Legal Notice & Juridic stuff
+## Legal Notice & Juridic stuff
  	
-### Cookies and Privacy *[GETTING STARTED] [EXPERT]*
+### Cookies and Privacy *[START POINT] [EXPERT]*
 - *Handling cookies with european laws*
 
 https://github.com/AmauriC/tarteaucitron.js
 
-### Licensing *[GETTING STARTED] [EXPERT]*
+### Licensing *[START POINT] [EXPERT]*
 - *Understanding React Patent licences*
 
 https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2
