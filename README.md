@@ -9,7 +9,7 @@ You will also find a lot of article I find usefull or giving me inspiration to e
 ## Table of Contents
   **TO CONTINUE**
 - [Web Usage & Dev Practices](#web-usage--dev-practices)
-  - [Getting Started *[GETTING STARTED]*](#getting-started-start-point)
+  - [Getting Started *[START POINT]*](#getting-started-start-point)
   - [Stats *[USAGE]*](#stats-usage)
   - [Into Production *[WORKFLOW]*](#into-production-workflow)
   - [Design *[WORKFLOW]*](#design-workflow)
@@ -20,6 +20,14 @@ You will also find a lot of article I find usefull or giving me inspiration to e
 - [HTML](#html)
 - [Server](#server)
 - [Legal Notice & Juridic stuff](#legal-notice--juridic-stuff)
+
+### Contents Type
+- *[START POINT]* : stands as a good starting for those who just begin in web
+- *[USAGE]* : some handful informations to develop
+- *[WORKFLOW]* : a given way to handle a project
+- *[WORKAROUND]* : solution ready-to-use for developement issues
+- *[EXPERT]* : more tricky or under-the-hood stuff
+- *[STARTUP]* : for those who are interested in creating their own business
 
 -------
 ## Web Usage & Dev Practices
@@ -157,19 +165,19 @@ List of service to deploy web-app:
 
 More to come...
 
-### Serverless
+### Serverless *[EXPERT]*
 
 More to come...
 
 ------
 ## Legal Notice & Juridic stuff
- 	
-### Cookies and Privacy *[START POINT] [EXPERT]*
-- *Handling cookies with european laws*
 
-https://github.com/AmauriC/tarteaucitron.js
-
-### Licensing *[START POINT] [EXPERT]*
+### Licensing *[START POINT]*
 - *Understanding React Patent licences*
 
 https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2
+ 	
+### Cookies and Privacy *[USAGE]*
+- *Handling cookies with european laws*
+
+https://github.com/AmauriC/tarteaucitron.js
