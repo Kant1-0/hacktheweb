@@ -75,6 +75,10 @@ http://www.gv.com/sprint/
 http://firstround.com/review/your-database-is-your-prison-heres-how-expensify-broke-free/
 
 ### Intiution vs Programing *[WORKFLOW]*
+- *What is Functional Programming?*
+
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+
 - *Overcoming Intuition in Programming*
 
 https://amasad.me/intuition
