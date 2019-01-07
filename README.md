@@ -99,6 +99,11 @@ http://firstround.com/review/fighting-factions-how-startups-can-scale-without-mu
 -------
 ## JS
 
+### How to better use Fetch *[EXPERT]*
+`fetch` is the hot new way to make HTTP requests in the browser. More than just being a better, more ergonomic API than XMLHttpRequest, it brings a lot of exciting new capabilities:
+
+https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1
+
 ### Detecting IE *[WORKAROUND]*
 While developping web-app IE has always been a time killer to found workaround, due to its different versions bringing each time different "unique" rendering. It can also be a pain to detect IE and which version the user is using.
 
